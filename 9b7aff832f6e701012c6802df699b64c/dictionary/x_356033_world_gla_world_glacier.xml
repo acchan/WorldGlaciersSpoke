@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="World Glacier" max_length="40" name="x_356033_world_gla_world_glacier" sizeclass="100" type="collection">
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
